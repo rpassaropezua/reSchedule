@@ -9,5 +9,8 @@
         <module name="reSchedule" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="reSchedule" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
