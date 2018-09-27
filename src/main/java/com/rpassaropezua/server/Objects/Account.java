@@ -1,4 +1,4 @@
-package reScheduleServer.Objects;
+package com.rpassaropezua.server.Objects;
 
 import javax.persistence.*;
 
